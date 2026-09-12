@@ -4,4 +4,4 @@
 - 📫 How to reach me :
   * Instagam: @the_softhuge
   * Personal Website: https://softhuge.com
-  * MailTo: softhugegroups@gmail.com
+  * MailTo: softhugetechnologies@gmail.com
