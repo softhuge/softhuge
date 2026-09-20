@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @softhuge, Software Development Agency
-- 👀 My Team is interested in IT Development Technologies & Securities
-- 🌱 I’m currently improving myself toward Successfull Software Company
-- 📫 How to reach me :
-  * Instagam: @the_softhuge
-  * Personal Website: https://softhuge.com
-  * MailTo: softhugetechnologies@gmail.com
+# Softhuge Engineering 👋
+
+Engineering & development account for [@Softhuge-Technologies](https://github.com/Softhuge-Technologies).
+
+We build and maintain software products across mobile, web, backend and cloud infrastructure.
+
+### Engineering Areas
+
+- 📱 Flutter & Cross-Platform Mobile Development
+- ⚙️ Laravel & Backend Engineering
+- 🔗 REST APIs & Integrations
+- 🌐 SaaS & Web Applications
+- 🗄️ Databases, Caching & Infrastructure
+- 🚀 Deployment & Product Maintenance
+
+### Softhuge Technologies
+
+**From product idea to production.**
+
+🌐 softhuge.com
